@@ -9,5 +9,9 @@ class BookMyTrainApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	@Test
+	void test1() {
+	}
 
 }
