@@ -1,7 +1,9 @@
 package bookmytrain;
 public class Person {
   private String firstName;
-  Person (String fname) {
+  private String lastName;
+  Person (String fname, String lname) {
     firstName = fname;
+    lastname = lname;
   }
 }
