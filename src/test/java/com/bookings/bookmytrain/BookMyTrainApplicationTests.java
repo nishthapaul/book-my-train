@@ -9,5 +9,10 @@ class BookMyTrainApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	@BeforeTest
+	void before() {
+		
+	}
 
 }
