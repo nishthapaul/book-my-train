@@ -6,8 +6,11 @@ import org.springframework.stereotype.Component;
 public class Person {
   private String firstName;
   private String lastName;
-  Person (String fname, String lname) {
+  private int age;
+  
+  Person (String fname, String lname, int age) {
     firstName = fname;
     lastname = lname;
+    this.age = age;
   }
 }
