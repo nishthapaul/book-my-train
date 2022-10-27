@@ -1,3 +1,4 @@
 - [Amogh Paul](https://github.com/Amoghpaul)
 - [Asha Paul](https://github.com/ashagulatipaul)
 - [Amogh Paul 07](https://github.com/amoghpaul07)
+- [Simran Sikka](https://github.com/ssikka8)
